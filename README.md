@@ -14,5 +14,5 @@ Ele permite saber a localização das escolas e a quantidade de alunos de cada.
 
 
 ### Nota:
-* Possui formulário comum e formulários através de ajax, não deu tempo para ordenamento.
+* Possui formulário comum e formulários através de ajax.
 * Desculpas pelo meu portunhol.
